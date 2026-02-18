@@ -1,0 +1,10 @@
+project_id = "ugvrmmfspcpcbvvfjypo"
+
+[functions.send-order-status-email]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.send-newsletter-welcome]
+verify_jwt = false
